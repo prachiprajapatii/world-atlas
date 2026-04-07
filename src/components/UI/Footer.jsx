@@ -42,7 +42,7 @@ export const Footers = () => {
                             <p>
                                 Copyright &copy; 2024, All Right Reserved
                                 <NavLink to="https://thapatechnical.shop/" target="_blank">
-                                    Krishna Chaurasiya
+                                    Prachi Prajapati
                                 </NavLink>
                             </p>
                         </div>
@@ -55,7 +55,7 @@ export const Footers = () => {
 
                                 <li>
                                     <NavLink
-                                        to="https://www.linkedin.com/in/krishna-chaurasiya-249010299/"
+                                        to="https://www.linkedin.com/in/prachi-prajapati-4805a42b7"
                                         target="_blank"
                                     >
                                         Social
@@ -63,7 +63,7 @@ export const Footers = () => {
                                 </li>
                                 <li>
                                     <NavLink
-                                        to="https://github.com/predator-9016"
+                                        to="https://github.com/prachiprajapatii"
                                         target="_blank"
                                     >
                                         Source Code
