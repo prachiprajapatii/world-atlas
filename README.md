@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 
-The to see the website go the following url :- https://sparkling-smakager-ee01e8.netlify.app/
+The to see the website go the following url :- 
